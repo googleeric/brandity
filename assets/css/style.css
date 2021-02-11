@@ -246,6 +246,23 @@ body {
    @media only screen and (max-width: 600px) {
     .power-switch {
       top: 0rem;
-      left: 0.5rem;
+      left: 1rem;
+    }
+    .ft-small {
+      font-size: 0.85rem;
+      padding: 0.5rem;
+    }
+    .logo-dark {
+      margin-top: 1rem;
+    }
+    .welcome_text {
+      margin-bottom: 1.5rem !important;
+      margin-top: 1.5rem !important;
+    }
+    .section-container{
+      text-align: center !important;
+    }
+    .mb-img{
+      height: 14rem !important;
     }
   }
